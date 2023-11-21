@@ -12,7 +12,7 @@ class 2; 직장 내 괴롭힘 대화
 class 3; 기타 괴롭힘 대화
 3. conversation = \n으로 구분된 멀티턴 텍스트 대화
 ```
-- LSVC, CNN, LSTM, Bi lstm, Bert의 모델을 사용하여 모델별 성능 비교를 진행하였음
+- Linear SVC, CNN, LSTM, Bi lstm, Bert의 모델을 사용하여 모델별 성능 비교를 진행하였음
 
 - 평가항목
 - ![스크린샷 2023-11-22 오전 1 26 19](https://github.com/minsung6333/DLthon_ttolmang/assets/138687269/8e88c881-48c6-42a4-8cb3-fea3e9cdf0cb)
